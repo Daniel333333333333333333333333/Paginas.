@@ -1,0 +1,27 @@
+body{
+font-family: arial, helvetica;
+background: #e8e8e8;
+}
+.menu1{
+list-style: none;
+padding: 30px;
+background: #092327;
+width: 100%;
+max-width: 1400px;
+margin: auto;
+position: center;
+}
+.menu1 li a{
+text-decoration: none;
+color: white;
+padding:60px;
+display: block;
+}
+.menu1 li{
+display: inline-block;
+text-align: center;
+}
+.menu1 li a:hover{
+background: #ef8354;
+}
+
